@@ -1,91 +1,71 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Ashar Qaisar (Ash)</h1>
+<h3 align="center">Full-Stack Developer & Linux SysAdmin | Deploying AI Solutions in Production</h3>
 
-<!-- Cyberpunk Dynamic Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,0,36,9,9,121,0,212,255&height=220&section=header&text=ASHAR%20QAISAR&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Linux+SysAdmin;AI+%2F+Automation+Enthusiast;Building+Things+That+Ship" alt="Typing SVG" />
 
-<!-- Animated Typing Terminal -->
-<a href="https://github.com/asharqaisar">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=%3E_AI+Integration+Engineer+%26+Full-Stack+Developer%3B;%3E_Deploying+Local+LLMs+(Ollama%2C+Open+WebUI)%3B;%3E_Building+Autonomous+Agents+(Hermes%2C+OpenClaw)%3B;%3E_Engineering+Production+NVIDIA+NIM+Workloads..." alt="Typing SVG" />
-</a>
+- 🔭 Currently building **[kiku](https://kikuplayer.netlify.app)** — a music player web app
+- 🚀 Deploying local & cloud AI endpoints + autonomous agent frameworks
+- 🌱 Also running **Elevate Mavens Media Solutions**, an AI-native digital growth agency
+- 📍 Based in Gujranwala, Pakistan
+- 💼 Open to software/engineering roles — let's connect!
 
-<p align="center">
-  <a href="https://github.com/asharqaisar">
-    <img src="https://img.shields.io/github/followers/asharqaisar?style=for-the-badge&logo=github&color=0d1117&labelColor=161b22&textColor=00F0FF" />
-  </a>
-  <a href="https://github.com/asharqaisar?tab=repositories">
-    <img src="https://img.shields.io/github/stars/asharqaisar?style=for-the-badge&logo=github&color=0d1117&labelColor=161b22&textColor=00F0FF" />
-  </a>
-</p>
+### 🛠️ Tech Stack
 
-</div>
 
----
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### ⚡ `ashar@asharqaisar:~# cat system_spec.json`
 
-```json
-{
-  "user": "Ashar Qaisar (Ash)",
-  "handle": "asharqaisar",
-  "role": "AI Integration Engineer & Full-Stack Developer",
-  "location": "Gujranwala, Pakistan",
-  "status": "Deploying local LLMs & orchestrating autonomous agents",
-  "environments": ["EndeavourOS", "Kubuntu", "Ubuntu", "Kali", "Termux"],
-  "certifications": [
-    "Claude Academy AI Fluency for Builders",
-    "NASA Open Science 101 (Credly Verified)",
-    "Cisco Ethical Hacking (Credly Verified)"
-  ]
-}
-```
 
----
 
-<div align="center">
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-### 🛡️ TECH & ARSENAL
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | `Python` `JavaScript (ES6+)` `SQL` `C++` `Bash` |
-| **AI & Machine Learning** | `Scikit-learn` `TensorFlow` `PyTorch` `NLP` `Computer Vision` |
-| **AI Platforms & Agents** | `Ollama` `Open WebUI` `NVIDIA NIM` `Hermes Agent` `OpenClaw` |
-| **Backend & Web** | `FastAPI` `Node.js` `REST APIs` `React` |
-| **DevOps & Infrastructure** | `Docker` `PM2` `Linux (Ubuntu, Kali, EndeavourOS)` `Vercel` `Netlify` |
 
-</div>
 
----
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### 🌌 ACTIVE MODULES & DEPLOYMENTS
 
-```gcode
-┌── [01] 🤖 Project Eviee   ──► Voice-first AI assistant running dual-node execution (PC & Termux)
-├── [02] 👁️  SPECTR         ──► Modular OSINT dashboard for real-time threat intelligence
-├── [03] 🎵 Kiku & Mite     ──► Ultra-lightweight streaming web apps with custom APIs
-├── [04] 💬 ZADE            ──► Autonomous AI WhatsApp automation agent deployed on Railway
-└── [05] 💻 Oxistat         ──► Single-file native Windows system hardware diagnostics tool
-```
 
-| Project | Description | Link |
-| :--- | :--- | :--- |
-| **AI Agent Portfolio** | Autonomous AI agent frameworks & LLM inference endpoints | [asharfolio.vercel.app](https://asharfolio.vercel.app) |
-| **SPECTR** | OSINT threat intelligence dashboard powered by FastAPI | [asharfolio.vercel.app](https://asharfolio.vercel.app) |
-| **Kiku Music Player** | High-performance browser-based music streaming web app | [kikuplayer.netlify.app](https://kikuplayer.netlify.app) |
 
----
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-<div align="center">
 
-### 📊 TELEMETRY & STATS
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=asharqaisar&show_icons=true&theme=cyberpunk&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asharqaisar&layout=compact&theme=cyberpunk&hide_border=true&bg_color=0d1117&title_color=00F0FF&text_color=c9d1d9&hide=html,css" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asharqaisar&theme=cyberpunk&hide_border=true&background=0d1117&stroke=00F0FF&alarm=00F0FF" />
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+
+
+
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+
+
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+
+
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+
+
+### 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=AsharQaisar&show_icons=true&theme=tokyonight" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AsharQaisar&theme=tokyonight" width="48%" />
+
+### 🔗 Connect with me
+[
+
+![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)
+
+](https://asharfolio.vercel.app)
+[
+
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
+
+](your-linkedin-url)  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asharqaisar&theme=cyberpunk&hide_border=true&background=0d1117&stroke=00F0FF&alarm=00F0FF" />
 </p>
 
 </div>
